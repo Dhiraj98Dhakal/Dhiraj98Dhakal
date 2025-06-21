@@ -12,7 +12,7 @@ jobs:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@master
         with:
-          github_user_name: dheerajdhakal
+          github_user_name: dhiraj98dhakal
           outputs: dist/snake.svg
 
       - name: Push snake.svg to the output branch
