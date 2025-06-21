@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run snake generator
+        uses: Platane/snk@master
+        with:
+          github_user_name: dheerajdhakal
+          outputs: snake.svg
+
+      - name: Upload to output branch
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: snake.svg
+
+      - name: Commit snake.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          message: 'chore: update snake animation'
+          branch: output
+          glob: 'snake.svg'
