@@ -30,8 +30,8 @@ interests:
 
 - **Languages**: JavaScript, PHP, Python, C  
 - **Frontend**: React, HTML5, CSS3  
-- **Backend/DB**: Firebase, MySQL  
-- **Tools**: Git, VS Code, Figma, XAMPP  
+- **Backend/DB**: MongoDB, MySQL  
+- **Tools**: Git, VS Code, Wamp, XAMPP  
 
 ---
 
@@ -39,7 +39,6 @@ interests:
 
 - QR‑based Attendance Mobile App  
 - Student Skill‑Sharing Platform  
-- React Course + Hands‑on Projects  
 
 ---
 
@@ -66,7 +65,7 @@ interests:
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhiraj98dhakal/dheerajdhakal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dhiraj98dhakal/dhiraj98dhakal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
