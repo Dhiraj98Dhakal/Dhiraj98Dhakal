@@ -66,7 +66,7 @@ interests:
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dheerajdhakal/dheerajdhakal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dhiraj98dhakal/dheerajdhakal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
