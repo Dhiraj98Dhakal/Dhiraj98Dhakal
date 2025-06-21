@@ -12,7 +12,7 @@ jobs:
       - name: Run snake generator
         uses: Platane/snk@master
         with:
-          github_user_name: dheerajdhakal
+          github_user_name: dhiraj98dhakal
           outputs: snake.svg
 
       - name: Upload to output branch
